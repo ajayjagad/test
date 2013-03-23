@@ -1,4 +1,16 @@
 {
+    "name": "ajayjagad/test",
+    "type": "library",
+    "description": "Test for PHP",
+    "keywords": ["templating"],
+    "homepage": "http://ajayjagad.com",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "J Ajay",
+            "email": "ajayjagad@gmail.com"
+        }
+    ],
     "require": {
         "ajayjagad/test": "1.0.*"
     }
