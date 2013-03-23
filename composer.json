@@ -11,7 +11,4 @@
             "email": "ajayjagad@gmail.com"
         }
     ],
-    "require": {
-        "ajayjagad/test": "1.0.*"
-    }
 }
